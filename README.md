@@ -127,9 +127,9 @@ tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
 
 <summary>Гайд для Android</summary>
 
-**1.** Скачиваем **«v2rayNG»** - [Ссылка](https://github.com/2dust/v2rayNG/releases/download/1.10.28/v2rayNG_1.10.28_universal.apk)
+**1.** Скачиваем **«v2rayNG»** universal.apk - [Ссылка](https://github.com/2dust/v2rayNG/releases)
 
-Можно использовать **Happ** - [Ссылка](https://play.google.com/store/apps/details?id=com.happproxy&hl=ru), но в настройках: Подписки -> сортировать по пингу
+Можно использовать **«Happ»** - [Ссылка](https://play.google.com/store/apps/details?id=com.happproxy&hl=ru), но в настройках: Подписки -> сортировать по пингу
 
 **2.** Копируем в буфер обмена ссылку на конфиг из раздела [Конфигурации](#конфигурации)
 
@@ -145,7 +145,7 @@ tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
 
 <summary>Гайд для Android TV</summary>
 
-**1.** Скачиваем **«v2rayNG»** - [Ссылка](https://github.com/2dust/v2rayNG/releases/download/1.10.28/v2rayNG_1.10.28_universal.apk)
+**1.** Скачиваем **«v2rayNG»** universal.apk - [Ссылка](https://github.com/2dust/v2rayNG/releases)
 
 **2.** Скачиваем **«QR-коды»** вечно актуальных конфигов - [Ссылка](https://github.com/whoahaow/rjsxrd/tree/main/qr-codes)
 
@@ -197,9 +197,12 @@ tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
 
 <summary>Гайд для Windows, Linux</summary>
 
-**1.** Скачиваем **«Throne»** - [Windows 10/11](https://github.com/throneproj/Throne/releases/download/1.0.10/Throne-1.0.10-windows64.zip) / [Windows 7/8/8.1](https://github.com/throneproj/Throne/releases/download/1.0.10/Throne-1.0.10-windowslegacy64.zip) / [Linux](https://github.com/throneproj/Throne/releases/download/1.0.10/Throne-1.0.10-linux-amd64.zip)
+**1.** Скачиваем **«Throne»** - [Ссылка](https://github.com/throneproj/Throne/releases)
+Windows 10/11 - windows64.zip
+Windows 7/8/8.1 - windowslegacy64.zip
+Linux - linux-amd64.zip
 
-Можно использовать **nekoray** - [Ссылка](https://github.com/MatsuriDayo/nekoray/releases)
+Можно использовать **«nekoray»** - [Ссылка](https://github.com/MatsuriDayo/nekoray/releases)
 
 **2.** Копируем в буфер обмена ссылку на конфиг из раздела [Конфигурации](#конфигурации)
 
@@ -243,7 +246,7 @@ tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
 
 **1.** Скачиваем **«V2Box - V2ray Client»** - [Ссылка](https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690)
 
-Можно использовать **Happ** - [Ссылка](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215), но в настройках: Подписки -> сортировать по пингу
+Можно использовать **«Happ»** - [Ссылка](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215), в настройках: Подписки -> сортировать по пингу
 
 **2.** Копируем в буфер обмена ссылку на конфиг из раздела [Конфигурации](#конфигурации)
 

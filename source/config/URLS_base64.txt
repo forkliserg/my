@@ -17,3 +17,7 @@ https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/s
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt
 https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link
 https://v2.alicivil.workers.dev
+https://raw.githubusercontent.com/Sage-77/V2ray-configs/refs/heads/main/config.txt
+https://raw.githubusercontent.com/Sage-77/V2ray-configs/refs/heads/main/found.txt
+https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
+https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/hysteria2
