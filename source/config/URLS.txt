@@ -111,3 +111,4 @@ https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/1
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/2
 https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
+https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
