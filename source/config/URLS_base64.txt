@@ -21,3 +21,4 @@ https://raw.githubusercontent.com/Sage-77/V2ray-configs/refs/heads/main/config.t
 https://raw.githubusercontent.com/Sage-77/V2ray-configs/refs/heads/main/found.txt
 https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
 https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/hysteria2
+https://sub-001.dns-on-fire.net/api/sub/aHtuQxwQ4RsGSJ2L
