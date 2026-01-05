@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/free-nodes/v2rayfree/refs/heads/main/v220251218
 https://raw.githubusercontent.com/mfuu/v2ray/refs/heads/master/v2ray
 https://raw.githubusercontent.com/ermaozi/get_subscribe/refs/heads/main/subscribe/v2ray.txt
 https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.txt
@@ -22,3 +21,4 @@ https://raw.githubusercontent.com/Sage-77/V2ray-configs/refs/heads/main/found.tx
 https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
 https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/hysteria2
 https://sub-001.dns-on-fire.net/api/sub/aHtuQxwQ4RsGSJ2L
+http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b

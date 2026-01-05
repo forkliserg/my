@@ -12,6 +12,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
 
 from config.settings import URLS, URLS_BASE64, URLS_YAML, EXTRA_URLS_FOR_BYPASS, DEFAULT_MAX_WORKERS
 from fetchers.fetcher import fetch_data, build_session
+from fetchers.daily_repo_fetcher import fetch_configs_from_daily_repo
 from utils.file_utils import save_to_local_file, load_from_local_file, split_config_file, deduplicate_configs, prepare_config_content, filter_secure_configs, has_insecure_setting, apply_sni_cidr_filter
 from utils.logger import log
 
@@ -80,6 +81,14 @@ def download_all_configs(output_dir: str = "../githubmirror") -> Tuple[List[str]
                         all_configs.extend(vpn_configs)
                 except Exception as e:
                     log(f"Error downloading or converting YAML: {str(e)[:200]}...")
+
+    # Download from daily-updated repository
+    try:
+        daily_configs = fetch_configs_from_daily_repo()
+        all_configs.extend(daily_configs)
+        log(f"Downloaded {len(daily_configs)} configs from daily-updated repository")
+    except Exception as e:
+        log(f"Error downloading from daily-updated repository: {str(e)[:200]}...")
 
     return all_configs, extra_bypass_configs
 
