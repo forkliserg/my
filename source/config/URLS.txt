@@ -125,3 +125,5 @@ https://raw.githubusercontent.com/Ai123999/1Mond/refs/heads/main/1Mond_Notorgame
 https://raw.githubusercontent.com/Ai123999/3Wend/refs/heads/main/3Wend_Notorgamers
 https://raw.githubusercontent.com/Ai123999/7Sand/refs/heads/main/7Sand_Notorgamers
 https://raw.githubusercontent.com/Ai123999/5Frid/refs/heads/main/5Frid_Notorgamers
+http://fsub.flux.2bd.net/githubmirror/bypass/bypass-all.txt
+https://storage.yandexcloud.net/cid-vpn/whitelist.txt

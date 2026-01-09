@@ -5,7 +5,7 @@ import sys
 import concurrent.futures
 import base64
 from typing import List, Tuple, Optional
-import sys
+import math
 
 # Add the source directory to the path for imports
 sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
@@ -130,11 +130,19 @@ def split_configs_to_files(configs: List[str], output_dir: str, filename_prefix:
     """Splits configs into multiple files with a given prefix."""
     created_files = []
     
-    # Split into chunks
-    chunks = [configs[i:i + max_configs_per_file] for i in range(0, len(configs), max_configs_per_file)]
+    num_configs = len(configs)
+    if not num_configs:
+        return []
+
+    # Calculate the number of files needed, rounding up
+    num_files = math.ceil(num_configs / max_configs_per_file)
     
-    for idx, chunk in enumerate(chunks, 1):
-        filename = f"{output_dir}/{filename_prefix}-{idx}.txt"
+    for i in range(int(num_files)):
+        start = i * max_configs_per_file
+        end = start + max_configs_per_file
+        chunk = configs[start:end]
+        
+        filename = f"{output_dir}/{filename_prefix}-{i + 1}.txt"
         try:
             with open(filename, "w", encoding="utf-8") as f:
                 f.write("\n".join(chunk))
@@ -142,7 +150,7 @@ def split_configs_to_files(configs: List[str], output_dir: str, filename_prefix:
             created_files.append(filename)
         except Exception as e:
             log(f"Error creating {filename}: {e}")
-    
+            
     return created_files
 
 
