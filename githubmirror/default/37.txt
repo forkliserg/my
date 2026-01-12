@@ -652,7 +652,6 @@ trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-us-6.mielink-dns2.co
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-us-6.mielink-dns2.com:443?security=tls&sni=🔒
 trojan://2683d8cb-6c64-4749-9cb9-24dfe71a5fdb@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#%5B%F0%9F%87%AD%F0%9F%87%B0%5D%20%5Btr-tl-ra%5D%20%5B260111-164008.803%5D
 trojan://2683d8cb-6c64-4749-9cb9-24dfe71a5fdb@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#HK54%EF%BD%9C%E5%8E%9F%E7%94%9F%2F%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://2683d8cb-6c64-4749-9cb9-24dfe71a5fdb@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 trojan://2683d8cb-6c64-4749-9cb9-24dfe71a5fdb@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8F%B0%E6%B9%BE%2001
 trojan://26a663656e575c0b@5.44.249.51:3389?security=tls&allowInsecure=1&type=tcp
 trojan://26a663656e575c0b@5.44.249.52:3389?security=tls&allowInsecure=1&type=tcp
@@ -2617,9 +2616,7 @@ trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&s
 trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.15.85:443/?type=ws&host=md1.safecdn.site&path=%2FChannel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2&security=tls&sni=md1.safecdn.site#%40Hope_Net-join-us-on-Telegram
 trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.15.85:443/?type=ws&host=md1.safecdn.site&path=🔒
 trojan://9450ab5e-f86f-40c1-89b0-92dfa6679553@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#HK106%EF%BD%9C%E5%8E%9F%E7%94%9F/%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://9450ab5e-f86f-40c1-89b0-92dfa6679553@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 trojan://9450ab5e-f86f-40c1-89b0-92dfa6679553@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#US61%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
-trojan://9450ab5e-f86f-40c1-89b0-92dfa6679553@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 trojan://9450ab5e-f86f-40c1-89b0-92dfa6679553@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 trojan://9450ab5e-f86f-40c1-89b0-92dfa6679553@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#US100%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 trojan://9450ab5e-f86f-40c1-89b0-92dfa6679553@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#🔥Join+Telegram:@Farah_VPN🟣
@@ -3932,6 +3929,7 @@ trojan://BxceQaOe@58.152.18.21:443?allowInsecure=1&sni=🔒
 trojan://BxceQaOe@58.152.18.21:443?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
 trojan://BxceQaOe@58.152.18.21:443?sni=t.me/ripaojiedian#🔥Join+Telegram:@Farah_VPN🟣
 trojan://BxceQaOe@58.152.18.21:443?sni=🔒
+trojan://BxceQaOe@58.152.25.220:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://BxceQaOe@58.152.25.220:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
 trojan://BxceQaOe@58.152.25.220:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://BxceQaOe@58.152.25.220:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
@@ -4026,6 +4024,7 @@ trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%25F0%259F%2594%2592%2520
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2B%2B%2B%2B%2B%2B#HK20%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2B%2B%2B%2B%2B%2B%2B%5BBy%2BDukeMehdi%5D%2Bb2n.ir%2Fv2ray-configs%2B%7C%2B78%2B#HK84%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2B%2B%2B%2B%2B%2B%2B%5BBy%2BDukeMehdi%5D%2Bb2n.ir%2Fv2ray-configs%2B%7C%2B78%2B#_%E9%A6%99%E6%B8%AF%205
+trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2B%2B%2B%2B%2B%2B%2B%5BBy%2BEbraSha%5D%2Bb2n.io%2Fv2ray-configs%2B%7C%2B160%2B#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2B%2B%2B%2B%2B%2B%2B%5BBy%2BEbraSha%5D%2Bb2n.ir%2Fv2ray-configs%2B#HK78%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2B%2B%2B%2B%2B%2B%2B%5BBy%2BEbraSha%5D%2Bb2n.ir%2Fv2ray-configs%2B%7C%2B160%2B#HK80%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2B%2B%2B%2B%2B%2B%2B%5BBy%2BEbraSha%5D%2Bb2n.ir%2Fv2ray-configs%2B%7C%2B160%2B#HK81%EF%BD%9C%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
@@ -5315,6 +5314,7 @@ trojan://WpfQAbO2wg@45.9.10.103:443?security=tls
 trojan://WpfQAbO2wg@45.9.10.103:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-45.9.10.103-4408
 trojan://XZ%7CP5%7DoQVc8V@188.114.96.3:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=004.electrocellco-cf-004.workers.dev&insecure=0&path=%2FeyJqdW5rIjoiQng3QkdTTklpbGdldG0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI0NS4xMzUuMTY1LjI0NSIsIjExNi4yMDMuNTguMTY1Il19%3Fed%3D2560&security=tls&sni=004.eLecTrOCELLco-cf-004.WorkeRs.DEv&type=ws#%40V2raysCollector%20%F0%9F%91%B3%F0%9F%94%AB
 trojan://XZ%7CP5%7DoQVc8V@188.114.96.3:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=004.electrocellco-cf-004.workers.dev&insecure=0&path=%2FeyJqdW5rIjoiQng3QkdTTklpbGdldG0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI0NS4xMzUuMTY1LjI0NSIsIjExNi4yMDMuNTguMTY1Il19%3Fed%3D2560&security=tls&sni=004.eLecTrOCELLco-cf-004.WorkeRs.DEv&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://XZ%7CP5%7DoQVc8V@188.114.96.3:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=004.electrocellco-cf-004.workers.dev&insecure=0&path=%2FeyJqdW5rIjoiQng3QkdTTklpbGdldG0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI0NS4xMzUuMTY1LjI0NSIsIjExNi4yMDMuNTguMTY1Il19%3Fed%3D2560&security=tls&sni=004.eLecTrOCELLco-cf-004.WorkeRs.DEv&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://XZ%7CP5%7DoQVc8V@188.114.96.3:443?allowInsecure=0&alpn=http%2F1.1&fp=chrome&host=004.electrocellco-cf-004.workers.dev&insecure=0&path=🔒
 trojan://XZ%7CP5%7DoQVc8V@188.114.96.3:443?security=tls&sni=004.eLecTrOCELLco-cf-004.WorkeRs.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=004.electrocellco-cf-004.workers.dev&path=%2FeyJqdW5rIjoiQng3QkdTTklpbGdldG0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI0NS4xMzUuMTY1LjI0NSIsIjExNi4yMDMuNTguMTY1Il19%3Fed%3D2560#%3E%3E%40DailyV2RY%3A%3AUS
 trojan://XZ%7CP5%7DoQVc8V@188.114.96.3:443?security=tls&sni=004.eLecTrOCELLco-cf-004.WorkeRs.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=004.electrocellco-cf-004.workers.dev&path=%2FeyJqdW5rIjoiQng3QkdTTklpbGdldG0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI0NS4xMzUuMTY1LjI0NSIsIjExNi4yMDMuNTguMTY1Il19%3Fed%3D2560#RELAY🚩
@@ -7353,6 +7353,7 @@ trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.ple
 trojan://df1f7e80-48a2-11f0-8b4b-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp
 trojan://df283334-6f6e-4efb-9a8a-b8ecf3040924@150.66.13.75:443?security=tls&sni=🔒
 trojan://df285431-91b0-3e85-bc0b-6be1f4cabdca@193.123.82.85:16146?security=tls&sni=🔒
+trojan://df682bf0-81ae-41ea-bab3-be7075a7f1ab@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 trojan://df682bf0-81ae-41ea-bab3-be7075a7f1ab@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 trojan://df682bf0-81ae-41ea-bab3-be7075a7f1ab@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#HK104%EF%BD%9C%E5%8E%9F%E7%94%9F/%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8
 trojan://df682bf0-81ae-41ea-bab3-be7075a7f1ab@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#🔥Join+Telegram:@Farah_VPN🟣
