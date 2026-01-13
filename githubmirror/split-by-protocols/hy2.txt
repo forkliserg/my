@@ -1,10 +1,20 @@
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#美国2
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡1
+hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=🔒
+hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&sni=de.eyucdn.xyz#DE
+hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&sni=🔒
+hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
+hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#TW
+hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰 HK
+hy2://f19823db-48e6-44fc-8a6a-372ce3611763@170.9.63.232:26902/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
+hy2://dongtaiwang.com@89.144.35.25:33550/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&amp;sni=bing.com#SG
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&amp;sni=bing.com#TW
-hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
 hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&amp;sni=de.eyucdn.xyz#DE
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&amp;sni=mg2.mangshe.xyz#美国2
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&amp;sni=xjp1.mangshe.xyz#新加坡1
-hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰 HK
 hy2://f6e4b19a3110d19d@66.135.28.59:443?obfs=salamander&amp;obfs-password=8c3ce17b&amp;insecure=1&amp;sni=ELiV2RAY.eliv2.top
 hy2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979/?insecure=1&amp;sni=www.bing.com#📟80@oneclickvpnkeys
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102/?insecure=1#📟86@oneclickvpnkeys
@@ -47,25 +57,12 @@ hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&amp;sni=Google.com&amp;
 hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=bd7f765e#⚡️ @vipv2rey(Hysteria)
 hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&amp;sni=Google.com&amp;obfs=salamander&amp;obfs-password=2pU!&Brls!0exuP+!4so#⚡️ @vipv2rey(Hysteria)
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&amp;sni=www.apple.com
-hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#美国2
-hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡1
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=🔒
-hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&sni=de.eyucdn.xyz#DE
-hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&sni=🔒
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#TW
-hy2://f19823db-48e6-44fc-8a6a-372ce3611763@170.9.63.232:26902/?insecure=1&sni=www.bing.com#United%20States🇺🇸
-hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#Germany🇩🇪
-hy2://f19823db-48e6-44fc-8a6a-372ce3611763@170.9.63.232:26902/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hy2://dongtaiwang.com@89.144.35.25:33550/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=🔒 [By EbraSha]&obfs=salamander&obfs-password=Yet-Another-Public-Config-1 # 🔒 [By EbraSha]
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&sni=🔒 [By EbraSha]&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi # 🔒 [By EbraSha]
 hy2://9f73c619627d6a5d@66.245.192.15:443?insecure=1&amp%3Bsni=www.apple.com&amp%3Bobfs=salamander&amp%3Bobfs-password=bd7f765e#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%20%40vipv2rey
-hy2://dongtaiwang.com@89.144.35.25:33550/?insecure=1&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20852595
-hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20164667
-hy2://f19823db-48e6-44fc-8a6a-372ce3611763@170.9.63.232:26902/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20423933
+hy2://dongtaiwang.com@89.144.35.25:33550/?insecure=1&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20711159
+hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20795691
+hy2://f19823db-48e6-44fc-8a6a-372ce3611763@170.9.63.232:26902/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20908973
 hy2://dongtaiwang.com@62.210.99.49:40088?insecure=1&sni=apple.com#%E2%9C%8572
 hy2://default:DKFzbGvtAkn2AG7C2FqyjdOav0bo7bXg@51.250.41.243:8443/?insecure=1&sni=sun6-22.userapi.com&obfs=salamander&obfs-password=A5JDQcOv7Gifnygu2QoAPznVR5oU6Ai0#%F0%9F%87%B7%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%E2%84%965%20%28%D0%B1%D0%B5%D1%82%D0%B0%29
 hy2://2e42c1ee-aaaa-11ec-bb74-f23c9164ca5d@107.167.18.108:443/?insecure=1&sni=🔒 [By EbraSha] #v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%20714%20%7C%20%E2%9A%A1%2055ms
@@ -78,7 +75,6 @@ hy2://9f73c619627d6a5d@66.245.192.15:443?insecure=1&sni=www.apple.com&obfs=salam
 hy2://aa068abd-f858-4fdf-b7c2-101947f160cb@65.49.60.38:443?mport=20201-20299#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%2013898%20%7C%20%E2%9A%A1%2071ms
 hy2://nfsn666@130.162.182.250:8888?insecure=1&sni=ld-arm.nfsn666.gq#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20HY2%20%7C%2013904%20%7C%20%E2%9A%A1%2081ms
 hy2://4494a8b7-de19-4b0f-85fb-4c3aab9654e4@139.162.37.41:443?mport=20000-50000&insecure=1&sni=www.bing.com#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20HY2%20%7C%2013920%20%7C%20%E2%9A%A1%20223ms
-hy2://dongtaiwang.com@62.210.99.49:40088?insecure=1&sni=apple.com#1861.%20CONFIG%20%7C%20TG%3A%20%40wlrustg
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&amp;sni=api.kermanshahi.org&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔷34@oneclickvpnkeys
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&amp;sni=YAPC-1.afshin.ir&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1#🧢1@oneclickvpnkeys
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?insecure=1&amp;sni=api.kermanshahi.org&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🧢41@oneclickvpnkeys
@@ -889,12 +885,11 @@ hy2://7008iSe44g5ddtr4a5621r32o@88.99.86.235:443?obfs=salamander&obfs-password=i
 hy2://7008iSe44g5ddtr4a5621r32o@[2a01:4f8:c012:1ec6::1]:443?obfs=salamander&obfs-password=i35Se47g78ar98o&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Falkenstein%20%F0%9F%8C%8D%20HY2-UDP-TLS%206%E2%83%A3
 hy2://738377dc-e149-4f81-e6a2-96c5afca1577@136.243.200.189:5844?insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Falkenstein%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://01aa59a6-d375-4319-b948-14f515db2e50@103.184.112.35:55228?insecure=1#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20-%20NA%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
+hy2://dongtaiwang.com@62.210.99.49:40088?insecure=1&sni=apple.com#1081.%20CONFIG%20%7C%20TG%3A%20%40wlrustg
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#2
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#1
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&sni=
-hy2://f19823db-48e6-44fc-8a6a-372ce3611763@170.9.63.232:26902/?insecure=1&sni=www.bing.com#United%20States
-hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#Germany
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29%20%2810%29
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%289%29
